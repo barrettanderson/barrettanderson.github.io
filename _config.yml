@@ -1,11 +1,11 @@
 # Site settings
 author: Barrett Anderson
-title: 
+title: Ramblings of a Programmer(well, sorta)
 header-img: img/home-bg.png
 email: barrettanderson1989@gmail.com
 copyright_name: Barrett Anderson
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Next Step: Programming
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  barrettanderson
