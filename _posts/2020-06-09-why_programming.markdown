@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "**Why Programming?**"
-date:       2020-06-09 20:12:48 +0000
+date:       2020-06-09 16:12:49 -0400
 permalink:  why_programming
 ---
 
